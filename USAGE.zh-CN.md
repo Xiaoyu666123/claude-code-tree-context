@@ -39,7 +39,7 @@ D:\Git\cmd\git.exe clone https://github.com/Xiaoyu666123/claude-code-tree-contex
 把 `.claude` 目录复制到当前项目：
 
 ```powershell
-Copy-Item -Recurse -Force temp-tree-context\.claude .\.claude
+Copy-Item -Recurse -Force temp-tree-context\.claude\* .\.claude\
 ```
 
 复制完成后删除临时目录：
