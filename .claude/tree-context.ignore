@@ -1,0 +1,8 @@
+# One ignore pattern per line.
+# Directory patterns should end with /.
+# Glob patterns are matched against POSIX-style relative paths.
+
+# Example:
+# data/
+# **/*.sqlite
+# **/*.pcap

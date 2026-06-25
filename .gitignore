@@ -1,0 +1,5 @@
+﻿.idea/
+.claude/context/*
+!.claude/context/.gitkeep
+__pycache__/
+*.pyc
